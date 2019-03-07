@@ -2,4 +2,4 @@
 
 const currentUser = ('Grace Hopper')
 
-const welcomeMessage = ('')
+const welcomeMessage = ('Welcome to Flatbook')
